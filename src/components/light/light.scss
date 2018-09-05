@@ -1,0 +1,17 @@
+@import 'styles/vars.scss';
+
+.light,
+.ant-card.light {
+  $root: &;
+  padding: $global-spacer-large 0;
+  text-align: center;
+
+  &__icon {
+    font-size: 36px;
+    margin-bottom: $global-spacer-large;
+  }
+
+  &--on {
+      color: #1890ff;
+  }
+}

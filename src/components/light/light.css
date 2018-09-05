@@ -1,0 +1,11 @@
+.light,
+.ant-card.light {
+  padding: 24px 0;
+  text-align: center; }
+  .light__icon,
+  .ant-card.light__icon {
+    font-size: 36px;
+    margin-bottom: 24px; }
+  .light--on,
+  .ant-card.light--on {
+    color: #1890ff; }
